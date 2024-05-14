@@ -6,7 +6,7 @@ pkgs.stdenv.mkDerivation {
     owner = "Coopydood";
     repo = "HyperFluent-GRUB-Theme";
     rev = "v1.0.1";
-    hash = "sha256-LGQahTnS6v23big5KC8LHS709zLXgp3QYcJ1lBTl2SM=";
+    hash = "sha256-zryQsvue+YKGV681Uy6GqnDMxGUAEfmSJEKCoIuu2z8=";
   };
   installPhase = "cp -r $src/nixos $out";
 }
