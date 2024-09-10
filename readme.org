@@ -46,3 +46,17 @@ After that, you can configure the theme as shown below. In this example it is in
   };
 }
 #+end_src
+
+** Packaged themes
+
+*** [[https://github.com/Teraskull/bigsur-grub2-theme/tree/5bf0a9711282e4463eec82bb4430927fdc9c662a][Big Sur]]
+#+ATTR_HTML: :width 300px
+[[https://github.com/Teraskull/bigsur-grub2-theme/raw/master/screenshots/bigsur.png]]
+
+*** [[https://github.com/AdisonCavani/distro-grub-themes/tree/v3.1][NixOS]]
+#+ATTR_HTML: :width 300px
+[[https://github.com/AdisonCavani/distro-grub-themes/blob/v3.1/preview/NixOS.png?raw=true]]
+
+*** [[https://github.com/Coopydood/HyperFluent-GRUB-Theme/tree/v1.0.1][Hyperfluent]]
+#+ATTR_HTML: :width 300px
+https://github-production-user-asset-6210df.s3.amazonaws.com/39441479/308734497-2480a2c0-8fae-4e51-9480-8b5d627da0a9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240910%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240910T210601Z&X-Amz-Expires=300&X-Amz-Signature=0bcbdd7975b32defa9f26febccd08656bead29e4f0fd91bd57ae8197a2ab671f&X-Amz-SignedHeaders=host&actor_id=18078027&key_id=0&repo_id=763733897
