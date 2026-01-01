@@ -42,7 +42,8 @@ After that, you can configure the theme as shown below. In this example it is in
 {
   boot.loader.grub = {
     ...  # your existing config
-    theme = inputs.nixos-grub-themes.packages.${pkgs.system}.nixos;
+    theme = inputs.nixos-grub-themes.packages.${pkgs.system}.nixos; # if you want to use nixos grub theme
+    # theme = inputs.nixos-grub-themes.packages.${pkgs.system}.hyperfluent; # if you want to use hyperfluent grub theme
   };
 }
 #+end_src
